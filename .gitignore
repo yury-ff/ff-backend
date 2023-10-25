@@ -1,4 +1,4 @@
 /node_modules
 .env
 /utils/test.js
-/contracts
+contracts
